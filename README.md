@@ -1,5 +1,5 @@
 
-# Tic Tac Token Game Contracts
+# Tic Tac Toe Game Contracts
 
 I build multiplayer tic tac token game with token based reward system by using [this tutorial](https://book.tictactoken.co/introduction.html) thanks to [eth_call](https://twitter.com/eth_call).
 
